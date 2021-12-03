@@ -1,14 +1,13 @@
-/* Codded by @Ravindu Manoj
-reedited by hisham
-sophia 2.3
+/* Codded by @Judson-web
+dark lord uyir
+dark 1.0
 
-Telegram: t.me/RavinduManoj
-Facebook: https://www.facebook.com/ravindu.manoj.79
+Telegram: t.me/storytym
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Whats bot - Ravindu Manoj
+dark bot - Judson-web
 */
 
 const Asena = require('../events');
